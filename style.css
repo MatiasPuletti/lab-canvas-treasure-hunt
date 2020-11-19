@@ -1,0 +1,13 @@
+canvas {
+  border: 2px solid black;
+  max-width: 90vw;
+  max-height: 90vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
